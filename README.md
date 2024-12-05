@@ -38,6 +38,16 @@ Which hosts are the busiest and why?
 
 Is there any noticeable difference of traffic among different areas and what could be the reason for it?
 
+## How to Run the Project
+In order to run the project just download the data from above mentioned source then run any file.
+
+## Prerequisites
+You need to have installed following softwares and libraries in your machine before running this project.
+
+Python 3
+
+Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scikit-learn.
+
 # Key findings:
 Westminster has the highest count of total listings at 82,350. Although a more popular destination, The City of London only has 2,562 listings.
 
