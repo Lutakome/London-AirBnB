@@ -29,18 +29,28 @@ With an increasing focus on sustainable travel, this dataset enables the identif
 # Why the need for the analysis? / Inspiration
 
 What can we learn about different hosts and areas?
+
 What can we learn from predictions? (ex: locations, prices, reviews, etc)
+
 Which hosts are the busiest and why?
+
 Is there any noticeable difference of traffic among different areas and what could be the reason for it?
 
 # Key findings:
 Westminster has the highest count of total listings at 82,350. Although a more popular destination, The City of London only has 2,562 listings.
+
 Westminster has the most hosts registered at 4,276, the most out of all the neighborhoods.
+
 The majority of hosts (24,681) have entire homes and/or apartments listed in London. Private rooms are made up of 19,993 hosts, with only 228 hosts listing hotels.
+
 As you move closer to the center of London, the number of hosts generally increases. Only 215 registered hosts have listings in that area. Westminster has the highest number of listings, followed by Hackney and Tower Hamlets.
-After reviewing the max and average prices in all neighborhoods, some listings were found to have a max price of 25,000 a night; whereas 31 of the 34 neighborhoods listed their properties at under 100 a night. Due to various price levels, the average price per listing was inconclusive..
+
+After reviewing the max and average prices in all neighborhoods, some listings were found to have a max price of 25,000 a night; whereas 31 of the 34 neighborhoods listed their properties at under 100 a night. Due to various price levels, the average price per listing was inconclusive.
+
 The median price had a stronger representation of how much the actual prices were.
+
 Hackney had the lowest availability listed out of all neighborhoods, with only 33 listings.
+
 Westminster also has the median price of 140 a night, whereas the city of london has the median price listed at 150 a night.
 
 # Recommendations
@@ -56,7 +66,11 @@ In areas with low usage levels a marketing campaign should target the user, not 
 Making discounts or offers for people in the less used areas to encourage them to book through Airbnb
 
 # KPIs that would make the analysis better and more reliable
+
 A KPI for customer service should be added
+
 A KPI for rooms quality should be added
+
 A KPI for the review feedback should be added
+
 A survey should be initialised all over London asking people about the most preferable and most bad to be avoided
