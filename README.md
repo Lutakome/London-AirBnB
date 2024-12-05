@@ -1,5 +1,7 @@
 # London-AirBnB
 
+![airbnb-london-1](https://github.com/user-attachments/assets/b71ad6fb-c522-4e34-bfb6-414e617ca231)
+
 # Business Understanding 
 Businesses across the globe are revolutionizing how people travel and stay, with platforms like Airbnb leading the charge. By leveraging technology, Airbnb connects hosts with a diverse customer base, offering personalized travel experiences worldwide.
 
